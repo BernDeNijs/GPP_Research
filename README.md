@@ -1,3 +1,3 @@
 # GPP_Research
 
-*insert title here*
+Advantage calculation in Rts battles
